@@ -1,0 +1,5 @@
+x=cumsum(rnorm(n=625))
+y=ts(x,start=c(1902,11),frequency=12)
+plot(y)
+library(lattice)
+xyplot.ts(y)

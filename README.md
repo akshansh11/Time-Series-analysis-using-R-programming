@@ -1,4 +1,4 @@
-# Time-Series-analysis-using-R-programming
+# Process of creating the Random Time Series using R Programming
 A time series is a collection of data sets that appear in a specific order throughout time. Cross-sectional data, on the other hand, captures a single moment in time.
 
 A time series in investing follows the movement of selected data points, such as the price of an asset, over a specific time period with data points captured at regular intervals. There is no set period of time that must be included, permitting the information to be collected in a way that offers the information that the investor or analyst looking into the activity is looking for.
